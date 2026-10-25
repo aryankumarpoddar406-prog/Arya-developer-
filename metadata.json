@@ -1,0 +1,6 @@
+{
+  "name": "PlayForge AI - Automated App Builder & Play Store Publisher",
+  "description": "Create any Android app with AI and publish directly to the Google Play Store automatically. 100% free with zero credits, no-code visual studio, and automated store deployment pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
